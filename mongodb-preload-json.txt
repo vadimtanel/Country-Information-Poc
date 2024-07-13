@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 9315115,
+    "timezone": "UTC+3",
+    "continent": "Asia",
+    "flag": "https://www.worldometers.info/img/flags/small/tn_is-flag.gif"
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 83166711,
+    "timezone": "UTC+2",
+    "continent": "Europe",
+    "flag": "https://www.worldometers.info/img/flags/small/tn_gm-flag.gif"
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 65273511,
+    "timezone": "UTC+2",
+    "continent": "Europe",
+    "flag": "https://www.worldometers.info/img/flags/small/tn_fr-flag.gif"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 125836021,
+    "timezone": "UTC+9",
+    "continent": "Asia",
+    "flag": "https://www.worldometers.info/img/flags/small/tn_ja-flag.gif"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 37742157,
+    "timezone": "UTC-4",
+    "continent": "Americas",
+    "flag": "https://www.worldometers.info/img/flags/small/tn_ca-flag.gif"
+  },
+  {
+    "name": "USA",
+    "capital": "Washington, D.C",
+    "region": "Americas",
+    "subregion": "Northeast and Central America",
+    "population":  341874164,
+    "timezone": "UTC-4",
+    "continent": "Americas",
+    "flag": "https://www.worldometers.info/img/flags/us-flag.gif"
+  },  
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 25687041,
+    "timezone": "UTC+10",
+    "continent": "Oceania",
+    "flag": "https://www.worldometers.info/img/flags/small/tn_as-flag.gif"
+  }
+]
